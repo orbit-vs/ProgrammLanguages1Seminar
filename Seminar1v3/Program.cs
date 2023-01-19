@@ -32,3 +32,7 @@ else if (number == 7)
 {
     Console.WriteLine("Воскресенье");
 }
+else 
+{
+    Console.WriteLine("Вы ввели число отличное от 1 до 7");
+}
